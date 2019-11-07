@@ -1,0 +1,24 @@
+{
+    "name": "chatbot-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fernandasnunes/assistant-chatbot-integration.git"
+    },
+    "author": "Fernanda da Silva Nunes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fernandasnunes/assistant-chatbot-integration/issues"
+    },
+    "homepage": "https://github.com/fernandasnunes/assistant-chatbot-integration#readme",
+    "dependencies": {
+        "ibm-watson": "^5.1.0",
+        "watson-developer-cloud": "^4.0.1"
+    }
+}
