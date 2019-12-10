@@ -18,6 +18,9 @@
     },
     "homepage": "https://github.com/fernandasnunes/assistant-chatbot-integration#readme",
     "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
         "ibm-watson": "^5.1.0",
         "watson-developer-cloud": "^4.0.1"
     }
